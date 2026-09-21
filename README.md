@@ -1,7 +1,5 @@
 # Agent skills from a VC
 
-[![skills.sh installs](https://skills.sh/b/paulklayvc/skills)](https://skills.sh/paulklayvc/skills)
-
 I'm [Paul Klay](https://x.com/PaulKlayVC), a venture capitalist. These are the agent skills I actually use: to research companies, find opportunities, and turn conversations into work. I'm sharing the workflows behind how I work and how I've joined projects myself.
 
 Use them with Claude Code, Codex, or another agent that supports skills.
