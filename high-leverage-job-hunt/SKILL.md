@@ -19,7 +19,7 @@ Your job is to make that concrete for *this* user with *their* skills and *their
 2. **Targets** — who converts that edge into money, and which specific companies need it and aren't doing it well.
 3. **Access** — reaching the founder, ideally warm.
 4. **The conversation** — advice-first, so the founder discovers the opportunity instead of being pitched.
-5. **The zero-risk offer** — a small paid test where the user carries most of the risk and the founder has little reason to say no.
+5. **The zero-risk offer** — a small test without a large upfront payment, where the user carries most of the risk and the founder has little reason to say no.
 
 ## Start by finding out where they are
 
@@ -83,7 +83,7 @@ Read the one you need when you get to that move. Each is self-contained.
 - `references/targeting.md` — mapping edge → business result → revenue → industries → specific companies; the qualification scorecard; research checklist
 - `references/outreach.md` — channels, how to ask for a warm intro, first-message templates, worked good/bad examples
 - `references/call-playbook.md` — the advice-first call, question sequences, what not to say on call one, handling the common turns
-- `references/pilot-offer.md` — structuring the zero-risk test, scoping, pricing and upside models, what to agree in writing
+- `references/pilot-offer.md` — structuring the zero-risk test, scoping, pricing and upside models, agreeing on the test
 - `references/evidence-building.md` — for users with no case study yet: fast paths to a real, provable result
 
 ## What you produce

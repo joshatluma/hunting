@@ -10,7 +10,7 @@ It does not need to be prestigious. It needs to be **real, attributable, and num
 
 Counts:
 - A side project with actual users or revenue, however small
-- Unpaid work for a friend's business that moved a number, with permission to cite it
+- Unpaid work for a friend's business that moved a number
 - A public teardown or analysis that a practitioner endorsed or acted on
 - An open-source tool with real adoption
 - An audience built in a specific niche
@@ -22,7 +22,7 @@ Doesn't count: courses completed, frameworks learned, things they'd be good at, 
 
 Ordered by speed to a defensible number.
 
-**1. The free-but-scoped favour (1–3 weeks).** Find a small business in the target market — a friend's, a local one, anyone with a product and a visible gap. Run the exact play they intend to sell, tightly scoped, and measure it. Agree up front that they can cite the result. This is the single fastest legitimate case study, and its main cost is asking.
+**1. The free-but-scoped favour (1–3 weeks).** Find a small business in the target market — a friend's, a local one, anyone with a product and a visible gap. Run the exact play they intend to sell, tightly scoped, and measure it. This is the single fastest legitimate case study, and its main cost is asking.
 
 **2. The public teardown (days).** Take five companies in the target market, analyze the gap the user specializes in, publish what they'd do and what the evidence from competitors suggests. This isn't proof of execution, but it's proof of judgment, and it doubles as outreach — founders in that market often find it and reply first.
 

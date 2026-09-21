@@ -10,7 +10,7 @@ Use them with Claude Code, Codex, or another agent that supports skills.
 
 ### [High-Leverage Job Hunt](./high-leverage-job-hunt)
 
-Find companies where your experience can solve a specific business problem, reach the founder, and propose a small paid pilot. Built for senior roles, partnerships, cofounder opportunities, and consulting work.
+Find companies where your experience can solve a specific business problem, reach the founder, and propose a small pilot without a large upfront payment. Built for senior roles, partnerships, cofounder opportunities, and consulting work.
 
 Distilled from [my original post on X](https://x.com/PaulKlayVC/status/2101356736560951576), which reached **424k views**.
 
