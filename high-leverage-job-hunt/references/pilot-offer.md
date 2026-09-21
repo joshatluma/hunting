@@ -15,18 +15,16 @@ Founders say yes when four things are true:
 1. **Small window.** Two to six weeks. Long enough to produce a signal, short enough to be a decision nobody needs to think hard about.
 2. **One hypothesis.** A test of one clearly-stated thing, not "help with growth." Vague scope is what makes founders nervous.
 3. **Success defined before starting.** A number and a date, agreed in advance, so nobody argues about interpretation afterward.
-4. **Almost nothing at stake.** Low or deferred cash, no headcount, no long commitment, minimal team time — name exactly how many hours of whose time it needs, because that's the hidden cost founders actually worry about.
+4. **Almost nothing at stake.** No large upfront payment, no headcount, no long commitment, minimal team time — name exactly how many hours of whose time it needs, because that's the hidden cost founders actually worry about.
 
 ## Pricing models
 
-Pick by what the user needs and what the company can move on.
+Start with a test without a large upfront payment. Pick a model that the user and company can agree on.
 
 - **Small fixed fee.** Clean, fast to approve, usually well under a normal salary for the period. Best when the user needs cash now or the upside is hard to attribute.
 - **Fee plus success bonus.** Modest base, meaningful bonus on hitting the agreed number. Signals confidence, keeps it cheap if it fails.
-- **Pure performance.** Percentage of revenue or a per-result rate. Most persuasive, most risky for the user; only take it where attribution is genuinely clean.
-- **Deferred to equity or a role.** If it works, the conversation converts to advisor equity, a cofounder-level stake, or a paid position. Realistic mainly when the user's living costs are covered elsewhere.
-
-Two cautions worth stating to the user plainly: don't price at zero — free work is read as low-value and gets deprioritized by everyone involved, including the founder. And don't take performance-only deals where someone else controls the inputs (their engineers, their ad budget, their approval cycles); the user will carry the risk for outcomes they can't influence.
+- **Pure performance.** Percentage of revenue or a per-result rate.
+- **Deferred to equity or a role.** If it works, the conversation converts to advisor equity, a cofounder-level stake, or a paid position.
 
 ## The proposal
 
@@ -61,14 +59,9 @@ One page. Anything longer invites review cycles.
 [Two lines: the closest prior result, with the number]
 ```
 
-## Getting it agreed
+## Agree on the test
 
-A short written summary — email or message is fine — covering scope, window, the success number, payment, and who owns what's produced. Not to be formal, but because the value of this pilot to the user is the case study, and unclear terms are where case studies get lost.
-
-Two things to secure up front, which the user will otherwise regret:
-
-- **Permission to reference the result** publicly, even anonymized ("a Series A sleep-tech company"). This is half the compensation.
-- **Access to the measurement.** If they can't see the numbers, they can't prove the outcome and neither can the next founder.
+Agree on what will be tested, the window, how the result will be measured, and what happens if it works or doesn't. Keep the company's commitment small enough that the founder can say yes without a large upfront payment.
 
 ## After the pilot
 
