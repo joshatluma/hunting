@@ -23,8 +23,10 @@ Start with a test without a large upfront payment. Pick a model that the user an
 
 - **Small fixed fee.** Clean, fast to approve, usually well under a normal salary for the period. Best when the user needs cash now or the upside is hard to attribute.
 - **Fee plus success bonus.** Modest base, meaningful bonus on hitting the agreed number. Signals confidence, keeps it cheap if it fails.
-- **Pure performance.** Percentage of revenue or a per-result rate.
-- **Deferred to equity or a role.** If it works, the conversation converts to advisor equity, a cofounder-level stake, or a paid position.
+- **Pure performance.** Percentage of revenue or a per-result rate. Most persuasive, most risky for the user; only take it where attribution is genuinely clean.
+- **Deferred to equity or a role.** If it works, the conversation converts to advisor equity, a cofounder-level stake, or a paid position. Realistic mainly when the user's living costs are covered elsewhere.
+
+Two cautions worth stating plainly. Don't price at zero — free work reads as low-value and gets deprioritized by everyone involved, including the founder; "no large upfront payment" means the company's risk is small, not that the work is free. And don't take performance-only deals where someone else controls the inputs (their engineers, their ad budget, their approval cycles); the user will carry the risk for outcomes they can't influence.
 
 ## The proposal
 
@@ -61,7 +63,12 @@ One page. Anything longer invites review cycles.
 
 ## Agree on the test
 
-Agree on what will be tested, the window, how the result will be measured, and what happens if it works or doesn't. Keep the company's commitment small enough that the founder can say yes without a large upfront payment.
+A short written summary — email or message is fine — covering what will be tested, the window, how the result is measured, what happens if it works or doesn't, and who owns what's produced. Keep the company's commitment small enough that the founder can say yes without a large upfront payment.
+
+Two things to secure up front, which the user will otherwise regret:
+
+- **Permission to reference the result** publicly, even anonymized ("a Series A sleep-tech company"). This is half the compensation.
+- **Access to the measurement.** If they can't see the numbers, they can't prove the outcome and neither can the next founder.
 
 ## After the pilot
 
